@@ -1,5 +1,5 @@
 # CSCI3002
 
 Batool Alghamdi,
-Jonathan Allen
+Jonathan Allen and
 Nick wentzel
